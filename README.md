@@ -1,5 +1,3 @@
-# gustavo-simoes
-
 ## 🚧 &nbsp; Em obras | Work in process &nbsp; 🚧
 
 🇧🇷 &nbsp; Tirando as teias de bugs e colocando ordem nos repositórios. Em breve, espero poder trazer novidades por aqui e tornar público alguns dos meus projetos pessoais (eles não aguentam mais ficarem trancados na gaveta —coitados).
